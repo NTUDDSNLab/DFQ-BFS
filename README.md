@@ -41,6 +41,7 @@ nvcc -O3 --compiler-options -Wall -Xptxas -v bfs.cu -o bfs
 
 ### 2) copy it into `design/bin`
 ```
+cd $dir_with_desired_feature
 cp bfs design/bin
 ```
 
