@@ -11,8 +11,8 @@ import csv
 import copy
 
 cycle = int(sys.argv[1])
-data_path = "/mnt/188/b/bfs/dat"
-bin_path = "/home/aihcer0119/johnny/bfs/bin"
+data_path = "data"
+bin_path = "bin"
 DATAFILE = sorted(listdir(data_path))
 BINFILE = sorted(listdir(bin_path))
 data_len = len(DATAFILE)

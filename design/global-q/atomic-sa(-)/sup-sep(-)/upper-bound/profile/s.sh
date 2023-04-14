@@ -1,0 +1,1 @@
+scp -P 607 log sylab@140.112.42.250:~/johnny/maketest
