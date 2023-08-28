@@ -57,3 +57,20 @@ python plot.py
 ```
 
 ### 5) check the result png file
+
+
+## How to Cite This Work
+
+Thanks for your citation
+```bibtex
+@inproceedings{hsieh2023decentralized,
+  title={A Decentralized Frontier Queue for Improving Scalability of Breadth-First-Search on GPUs},
+  author={Hsieh, Chou-Ying and Cheng, Po-Hsiu and Chang, Chia-Ming and Kuo, Sy-Yen},
+  booktitle={2023 Design, Automation \& Test in Europe Conference \& Exhibition (DATE)},
+  pages={1--6},
+  year={2023},
+  organization={IEEE}
+}
+```
+
+
